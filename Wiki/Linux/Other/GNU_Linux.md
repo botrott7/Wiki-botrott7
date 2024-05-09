@@ -20,3 +20,5 @@ GNU/Linux сделана по образцу операционной систе
 GNU/Linux users have immense freedom of choice in their software. For example, they can choose from a dozen different command line shells and several graphical desktops. This selection is often bewildering to users of other operating systems, who are not used to thinking of the command line or desktop as something that they can change.
 
 GNU/Linux также менее подвержен сбоям, лучше приспособлен для одновременного выполнения более чем одной программы и более защищён, чем многие другие системы. Благодаря этим преимуществам, Linux быстро завоёвывает рынок серверных операционных систем. С недавних пор, Linux начал становиться популярным среди домашних пользователей и в корпоративной среде.
+
+## [Назад](../lin.md)
