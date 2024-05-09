@@ -11,7 +11,7 @@
 
 #### Mutter (GNOME)
 - оконный менеджер X Window System, который используется по умолчанию в рабочей среде GNOME 3. Mutter был разработан в качестве альтернативы Metacity.
-- ![gnm](../../../Img/gnome.png)
+- ![gnm](../../../Img/gn1ome.png)
 
 #### xmonad
 -  фреймовый оконный менеджер для X Window System, написанный на функциональном языке программирования Haskell. xmonad распространяется со многими Unix-подобными операционными системами, в том числе, Linux (Arch Linux, Debian, Fedora Linux,Ubuntu, Gentoo), BSD (FreeBSD, NetBSD, OpenBSD). 
